@@ -8,6 +8,8 @@ This README is a non-normative introduction. The versioned specification defines
 
 Agent Plugins Specification 1.0.0 is the current published release.
 
+Agent Plugins Specification 1.1.0 is a working draft.
+
 ## Quick Start
 
 The smallest useful plugin is a directory with one skill:
@@ -45,7 +47,8 @@ A client that supports skills can load the plugin by reading `plugin.json` and d
 ## Project Documents
 
 - [Agent Plugins Specification 1.0.0](./spec/1.0.0.md)
-- [Plugin manifest schema](./schemas/1.0.0/plugin.schema.json)
-- [MCP configuration schema](./schemas/1.0.0/mcp.schema.json)
+- [Agent Plugins Specification 1.1.0 (working draft)](./spec/1.1.0.md)
+- [1.0.0 schemas](./schemas/1.0.0/)
+- [1.1.0 schemas](./schemas/1.1.0/)
 - [Technical Charter](./GOVERNANCE.md)
 - [Future considerations](./FUTURE_CONSIDERATIONS.md)
